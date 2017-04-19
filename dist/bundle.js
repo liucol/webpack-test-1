@@ -75,7 +75,7 @@
  * Created by yangliu on 2017/4/19.
  */
 /* harmony default export */ __webpack_exports__["a"] = (function(){
-    return '第一个webpack test'
+    return '方方的教程'
 });
 
 /***/ }),
